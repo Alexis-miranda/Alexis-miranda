@@ -1,66 +1,63 @@
+
 # Hi, I'm Alexis 👋
 
 ### Aspiring Java Backend Developer
 
-I enjoy building software, solving technical problems, and exploring how backend systems work.
+I enjoy building software, solving technical problems, and learning how reliable backend systems are designed.
 
-I'm currently developing my skills in Java, Spring Boot, REST APIs, databases, and microservices through self-directed learning and hands-on projects.
+I'm developing my skills in Java, backend development, databases, and data engineering through hands-on projects and continuous learning.
 
 ### Tech Stack
 
 **Backend Development**
-- Java
+- Java 21
 - Spring Boot
 - REST APIs
 - Microservices fundamentals
 
 **Databases**
 - SQL
+- NoSql
 - Relational databases
+- Microsoft SQL Server (learning)
 
 **Messaging & Infrastructure**
-- Apache Kafka
+- RabbitMQ (learning)
+- Kafka (learning)
 - Docker
+- Windows Server fundamentals
 
-**Additional Skills**
-- Python — currently expanding my knowledge
+**Tools & Testing**
+- Apache Maven
+- JUnit 5
+- Mockito
 - Git and GitHub
 
-###  Current Project
+### Featured Project
 
-**FlowForge ETL**
+**[FlowForge ETL](https://github.com/Alexis-miranda/flowforge-etl)**
 
-I'm building a modular ETL framework in Java to extract, transform, and load data using a maintainable and extensible architecture.
+A modular ETL framework built with Java 21 to extract, transform, and load data.
 
-My goal is to build a reliable and maintainable data processing workflow while strengthening my skills in backend development, data management, and software architecture.
+The project currently supports CSV processing and modular pipeline execution, with plans to integrate Microsoft SQL Server, RabbitMQ, and a Spring Boot web interface for deployment on Windows Server.
 
 **Status:** In progress.
 
-**Technologies:** 
-- Maven
-- Java 21
-- JUnit 5
-- Apache Commons CSV
-- Spring Boot
-- Git and GitHub
-  
-
 ### What I'm Learning
 
-- Designing modular and extensible Java applications
-- Building ETL pipelines to extract, transform, and load data
-- Implementing CSV processing and data transformations
-- Writing unit and integration tests with JUnit 5
-- Handling pipeline execution, errors, and shared data context
-- Applying software design principles and clean code practices
-- Managing projects with Maven and Git
+- Designing modular Java applications
+- Building reliable ETL pipelines
+- Integrating databases through JDBC
+- Exploring asynchronous messaging with RabbitMQ
+- Developing backend services with Spring Boot
+- Writing automated tests and improving software architecture
 
-###  My Goal
+### My Goal
 
-I'm looking for an entry-level backend development opportunity where I can apply my knowledge, contribute to a development team, and grow through real-world software engineering experience.
+I'm looking for an entry-level backend development opportunity where I can contribute to real-world projects, learn from experienced developers, and grow as a software engineer.
 
-###  Let's Connect
+### Let's Connect
 
-- LinkedIn: www.linkedin.com/in/alexis-aquino-miranda-053b0a252
-- Email: Alexaquinomiranda@gmail.com
-- Location: Geneva, Switzerland
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/alexis-aquino-miranda-053b0a252)
+- **Email:** [Contact me](mailto:Alexaquinomiranda@gmail.com)
+- **Location:** Geneva, Switzerland
