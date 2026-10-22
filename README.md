@@ -33,24 +33,50 @@ I'm developing my skills in Java, backend development, databases, and data engin
 - Mockito
 - Git and GitHub
 
-### Featured Project
+## Featured Project
 
-**[FlowForge ETL](https://github.com/Alexis-miranda/flowforge-etl)**
+[**FlowForge ETL**](https://github.com/Alexis-miranda/flowforge-etl)
 
-A modular ETL framework built with Java 21 to extract, transform, and load data.
+A modular ETL engine built with Java 21 to extract, validate, transform, and load data through a structured and extensible pipeline architecture.
 
-The project currently supports CSV processing and modular pipeline execution, with plans to integrate Microsoft SQL Server, RabbitMQ, and a Spring Boot web interface for deployment on Windows Server.
+The project supports CSV processing, data validation, and Microsoft SQL Server integration through a staging data loader. Automated tests cover the core modules, including real database integration tests.
 
-**Status:** In progress.
+**Tech Stack:** Java 21, JDBC, Microsoft SQL Server, CSV, JUnit, Maven
+
+### Key Features
+
+- Modular ETL engine with extraction, transformation, loading, and pipeline execution steps
+- CSV ingestion and data validation
+- Rejection handling for invalid records
+- Microsoft SQL Server integration through a staging data loader
+- Automated tests covering core modules
+- Real database integration testing
+- Version-controlled SQL scripts and architecture diagrams
+
+### Testing & Validation
+
+- Processed a test dataset containing four records: two valid and two rejected
+- Executed integration tests against Microsoft SQL Server
+- Core module tests passing
+- Optional connector tests excluded where applicable
+
+### Planned Improvements
+
+- RabbitMQ integration for asynchronous messaging
+- Spring Boot web interface
+- Windows Server deployment
+
+**Status:** Core ETL pipeline implemented; ongoing development.
 
 ### What I'm Learning
 
-- Designing modular Java applications
-- Building reliable ETL pipelines
-- Integrating databases through JDBC
-- Exploring asynchronous messaging with RabbitMQ
-- Developing backend services with Spring Boot
-- Writing automated tests and improving software architecture
+- Designing modular and maintainable Java applications
+- Building reliable ETL pipelines and data validation workflows
+- Integrating relational databases using JDBC and SQL Server
+- Implementing staging-based data loading
+- Writing automated tests and validating database integrations
+- Applying software architecture and clean code principles
+- Exploring asynchronous messaging and backend service development
 
 ### My Goal
 
