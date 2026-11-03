@@ -1,89 +1,84 @@
+# Alexis Aquino Miranda
 
-# Hi, I'm Alexis 👋
+### Junior Java Backend Developer | Data Integration
 
-### Aspiring Java Backend Developer
+📍 Geneva, Switzerland
 
-I enjoy building software, solving technical problems, and learning how reliable backend systems are designed.
+I'm a software development graduate focused on Java backend development, databases, and data integration. I enjoy building practical projects, solving technical problems, and developing clean, maintainable, and testable software.
 
-I'm developing my skills in Java, backend development, databases, and data engineering through hands-on projects and continuous learning.
+Currently, I'm developing **FlowForge ETL**, a modular Java application focused on data processing, pipeline execution, and execution diagnostics.
 
-### Tech Stack
+## Technical Skills
 
 **Backend Development**
 - Java 21
-- Spring Boot
-- REST APIs
-- Microservices fundamentals
+- Spring Boot and REST APIs
+- Maven
+- Object-oriented programming
 
-**Databases**
-- SQL
-- NoSql
-- Relational databases
-- Microsoft SQL Server (learning)
+**Databases and Data Integration**
+- SQL and Microsoft SQL Server
+- JDBC
+- CSV processing and data validation
+- SFTP and SSH host key verification
+- ETL pipeline design
 
-**Messaging & Infrastructure**
-- RabbitMQ (learning)
-- Kafka (learning)
-- Docker
-- Windows Server fundamentals
-
-**Tools & Testing**
-- Apache Maven
-- JUnit 5
-- Mockito
+**Testing and Tools**
+- JUnit 5 and Mockito
 - Git and GitHub
+- Docker fundamentals
+- CI/CD fundamentals
+
+**Currently Learning**
+- Kafka and message-driven architectures
+- RabbitMQ
+- Advanced Spring Boot
+- Automation and DevOps fundamentals
 
 ## Featured Project
 
-[**FlowForge ETL**](https://github.com/Alexis-miranda/flowforge-etl)
+### [FlowForge ETL](https://github.com/Alexis-miranda/flowforge-etl)
 
-A modular ETL engine built with Java 21 to extract, validate, transform, and load data through a structured and extensible pipeline architecture.
+A modular ETL application built with Java 21 to process data through structured pipelines.
 
-The project supports CSV processing, data validation, and Microsoft SQL Server integration through a staging data loader. Automated tests cover the core modules, including real database integration tests.
+The project focuses on separating responsibilities, tracking execution steps, diagnosing failures, and making data processing easier to maintain and test.
 
-**Tech Stack:** Java 21, JDBC, Microsoft SQL Server, CSV, JUnit, Maven
+**Main Components**
 
-### Key Features
+- **flowforge-core:** Pipeline execution, shared context, execution history, and diagnostics.
+- **flowforge-connectors:** CSV, SQL Server, and SFTP integrations.
+- **flowforge-cash:** Business rules, data validation, persistence, and delivery workflows.
 
-- Modular ETL engine with extraction, transformation, loading, and pipeline execution steps
-- CSV ingestion and data validation
-- Rejection handling for invalid records
-- Microsoft SQL Server integration through a staging data loader
-- Automated tests covering core modules
-- Real database integration testing
-- Version-controlled SQL scripts and architecture diagrams
+**Key Features**
+- Modular pipeline execution.
+- Data validation and rejected-record handling.
+- Execution history and step-level diagnostics.
+- Failure classification for troubleshooting.
+- Automated tests using JUnit 5 and Mockito.
+- Maven multi-module build.
 
-### Testing & Validation
+The project is under active development. Kafka and RabbitMQ are currently learning areas and are not presented as integrated FlowForge features.
 
-- Processed a test dataset containing four records: two valid and two rejected
-- Executed integration tests against Microsoft SQL Server
-- Core module tests passing
-- Optional connector tests excluded where applicable
+## Education
 
-### Planned Improvements
+**Higher Technician Diploma in Multiplatform Application Development (DAM)**  
+IES Barajas — Madrid, Spain  
+Studies completed in June 2023.
 
-- RabbitMQ integration for asynchronous messaging
-- Spring Boot web interface
-- Windows Server deployment
+## Career Goals
 
-**Status:** Core ETL pipeline implemented; ongoing development.
+I'm open to junior opportunities in:
 
-### What I'm Learning
+- **Java Backend Development** — building and maintaining backend applications and APIs.
+- **Data Integration** — working with databases, ETL processes, and data workflows.
+- **Application Support** — troubleshooting applications and helping maintain reliable systems.
+- **IT Support** — technical troubleshooting, user assistance, and systems support.
+- **QA and Software Testing** — testing applications, identifying issues, and improving software quality.
 
-- Designing modular and maintainable Java applications
-- Building reliable ETL pipelines and data validation workflows
-- Integrating relational databases using JDBC and SQL Server
-- Implementing staging-based data loading
-- Writing automated tests and validating database integrations
-- Applying software architecture and clean code principles
-- Exploring asynchronous messaging and backend service development
+I'm motivated to contribute to real-world projects, learn from experienced teams, and continue growing in the technology field.
 
-### My Goal
+## Contact
 
-I'm looking for an entry-level backend development opportunity where I can contribute to real-world projects, learn from experienced developers, and grow as a software engineer.
-
-### Let's Connect
-
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/alexis-aquino-miranda-053b0a252)
-- **Email:** [Contact me](mailto:Alexaquinomiranda@gmail.com)
+- **LinkedIn:** [Alexis Aquino Miranda](https://www.linkedin.com/in/alexis-aquino-miranda-053b0a252)
+- **Email:** alexaquinomiranda@gmail.com
 - **Location:** Geneva, Switzerland
