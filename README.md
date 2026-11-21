@@ -1,14 +1,12 @@
 # Alexis Aquino Miranda
 
-### Junior Java Backend Developer | Backend Development & Data Integration
+### Junior Java Backend Developer | Java 21 · Spring Boot · REST APIs
 
 📍 Geneva, Switzerland
 
-I'm a software development graduate based in Geneva, Switzerland, with a strong interest in Java backend development, software architecture, and data integration.
+I'm a junior software developer based in Geneva, Switzerland, with a Higher Vocational Diploma in Multiplatform Application Development (DAM) and experience in IT support.
 
-I enjoy building practical software projects, designing backend components, working with relational databases, and solving technical problems. My focus is on writing clean, maintainable, and testable code while continuously improving my engineering skills.
-
-I'm currently developing personal projects that allow me to apply and deepen my knowledge of Java, Spring Boot, REST APIs, microservices, SQL databases, and automated testing.
+I'm focused on Java backend development, building REST APIs, working with relational databases, and learning how to design reliable, maintainable software. I enjoy applying what I learn through practical projects and continuously improving my development skills.
 
 ## Technical Skills
 
@@ -20,49 +18,45 @@ I'm currently developing personal projects that allow me to apply and deepen my 
 - Object-Oriented Programming
 - Maven
 
-**Databases & Data Integration**
+**Databases & Data Processing**
 - SQL
-- Microsoft SQL Server
-- PostgreSQL
-- MySQL
+- Microsoft SQL Server, PostgreSQL, MySQL
 - JDBC
 - CSV processing and data validation
-- ETL pipelines
+- ETL workflows
 - SFTP and SSH
 
 **Testing & Development Tools**
 - JUnit 5 and Mockito
 - Git and GitHub
-- Docker and Docker Compose
+- Docker
 - Postman
-- GitHub Actions
 
-**Programming & Data**
+**Additional Knowledge**
 - Python
-- Pandas
-- NumPy
+- Pandas and NumPy
 
 ## Featured Projects
 
 ### [FlowForge ETL](https://github.com/Alexis-miranda/flowforge-etl)
 
-A modular ETL application built with Java 21, focused on data processing, pipeline execution, and reliable data integration.
+A modular Java 21 ETL utility for validating, processing, and persisting data, with execution tracking and reliable file delivery.
 
-Working with CSV processing, SQL Server, SFTP transfers, execution tracking, error handling, data validation, and automated testing.
+The project includes CSV validation, SQL Server persistence, SFTP transfers using SSH, error handling, and automated tests.
 
-**Technologies:** Java 21, Maven, SQL Server, Python, Pandas, JUnit 5, Mockito.
+**Technologies:** Java 21, Maven, SQL Server, JUnit 5, Mockito, SFTP, SSH.
 
 ### [collectionPlayers](https://github.com/Alexis-miranda/collectionPlayers)
 
-A football management platform under development, based on a microservices architecture.
+A football management platform under development, built around a microservices architecture.
 
-The project explores service separation, REST communication, relational database persistence, and backend application design.
+The project explores service separation, REST APIs, relational database persistence, and backend application design across services for players, teams, statistics, matches, and championships.
 
 **Technologies:** Java, Spring Boot, Spring Data JPA, Hibernate, PostgreSQL, MySQL, Maven.
 
 ## Education
 
-**Higher Technician Diploma in Multiplatform Application Development (DAM)**
+**Higher Vocational Diploma in Multiplatform Application Development (DAM)**
 
 IES Barajas — Madrid, Spain  
 September 2021 – June 2023
@@ -71,21 +65,18 @@ September 2021 – June 2023
 
 - Advanced Spring Boot and backend architecture
 - Apache Kafka and RabbitMQ
-- Software automation and DevOps fundamentals
-- Improving software testing and application reliability
+- Software testing and application reliability
+- DevOps fundamentals
 
-## Career Interests
+## Career Objective
 
-I'm interested in junior opportunities in:
+I'm looking for a Junior Java Backend Developer or Junior Software Engineer opportunity in Geneva or the French-speaking part of Switzerland.
 
-- Java Backend Development
-- Junior Software Development
-- Data Integration and ETL
-- Application Support
-
-I'm motivated to contribute to real-world projects, learn from experienced teams, and grow as a software developer.
+I'm motivated to contribute to real-world projects, learn from experienced teams, and continue growing as a software developer.
 
 ## Contact
 
+- **Portfolio:** [alexis-portfolio-lovat.vercel.app](https://alexis-portfolio-lovat.vercel.app/)
 - **LinkedIn:** [Alexis Aquino Miranda](https://www.linkedin.com/in/alexis-aquino-miranda-053b0a252)
+- **Email:** [alexaquinomiranda@gmail.com](mailto:alexaquinomiranda@gmail.com)
 - **Location:** Geneva, Switzerland
