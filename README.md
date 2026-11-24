@@ -1,82 +1,99 @@
 # Alexis Aquino Miranda
 
-### Junior Java Backend Developer | Java 21 · Spring Boot · REST APIs
+**Software Developer | Java & Backend | ETL & Data Integration**
 
-📍 Geneva, Switzerland
+Geneva, Switzerland
 
-I'm a junior software developer based in Geneva, Switzerland, with a Higher Vocational Diploma in Multiplatform Application Development (DAM) and experience in IT support.
+Software developer with a Higher Vocational Diploma in Multiplatform Application Development (DAM) and a technical background spanning backend development, IT support, and practical data integration.
 
-I'm focused on Java backend development, building REST APIs, working with relational databases, and learning how to design reliable, maintainable software. I enjoy applying what I learn through practical projects and continuously improving my development skills.
+My main focus is Java backend development with Spring Boot, REST APIs, relational databases, and software testing. I also have hands-on experience with ETL workflows in a banking environment, including Markit EDM, SQL queries, file processing, SFTP transfers, and data flows between Front Office and Back Office systems.
+
+I apply these skills through personal software projects, with particular attention to modular design, reliable data processing, asynchronous communication, and maintainable code.
 
 ## Technical Skills
 
 **Backend Development**
-- Java 21
-- Spring Boot
-- Spring Data JPA and Hibernate
-- REST APIs
-- Object-Oriented Programming
-- Maven
+- Java 21, Spring Boot
+- REST API design and development
+- Spring Data JPA, Hibernate, JDBC
+- Maven and microservices fundamentals
 
-**Databases & Data Processing**
-- SQL
-- Microsoft SQL Server, PostgreSQL, MySQL
-- JDBC
-- CSV processing and data validation
-- ETL workflows
-- SFTP and SSH
+**Data Engineering & Integration**
+- SQL, SQL Server, PostgreSQL, MySQL
+- ETL workflows and data validation
+- Markit EDM (practical experience)
+- CSV, XML, and Excel file processing
+- SFTP file transfers
+- RabbitMQ and asynchronous messaging
 
 **Testing & Development Tools**
-- JUnit 5 and Mockito
-- Git and GitHub
-- Docker
-- Postman
+- JUnit 5, Mockito
+- Git, GitHub, Postman
+- Docker and Linux fundamentals
+- Python for data analysis
 
-**Additional Knowledge**
-- Python
-- Pandas and NumPy
+## Professional & Practical Experience
+
+**IT Support Intern — Fractalia Remote System**  
+January 2023 – June 2023
+
+- Assisted users and diagnosed common technical incidents.
+- Followed up on support tickets and documented troubleshooting steps.
+- Worked with Jira, Confluence, HERMÈS, and SharePoint in an Agile/Scrum environment.
+
+**Practical ETL Experience — Banking Environment**  
+Markit EDM | 2023
+
+- Processed and routed CSV, XML, and Excel files received through SFTP.
+- Used SQL queries, joins, unions, and views to work with relational data.
+- Applied data validation, transformation, routing, and distribution rules.
+- Worked with data flows between Front Office and Back Office systems.
 
 ## Featured Projects
 
 ### [FlowForge ETL](https://github.com/Alexis-miranda/flowforge-etl)
 
-A modular Java 21 ETL utility for validating, processing, and persisting data, with execution tracking and reliable file delivery.
+A modular ETL engine developed with Java 21, designed to validate, process, persist, and track data deliveries.
 
-The project includes CSV validation, SQL Server persistence, SFTP transfers using SSH, error handling, and automated tests.
+- Modular Maven architecture.
+- CSV validation and SQL Server persistence.
+- RabbitMQ-based asynchronous processing.
+- Transactional Outbox pattern and delivery tracking.
+- Error handling, recovery mechanisms, and automated tests.
 
-**Technologies:** Java 21, Maven, SQL Server, JUnit 5, Mockito, SFTP, SSH.
+**Technologies:** Java 21, Maven, SQL Server, RabbitMQ, JUnit 5, Mockito.
 
-### [collectionPlayers](https://github.com/Alexis-miranda/collectionPlayers)
+### [Football Championship Microservices](https://github.com/Alexis-miranda/collectionPlayers)
 
-A football management platform under development, built around a microservices architecture.
+A backend application exploring microservices for managing players, teams, matches, championships, and statistics.
 
-The project explores service separation, REST APIs, relational database persistence, and backend application design across services for players, teams, statistics, matches, and championships.
+- Service-oriented backend structure.
+- REST communication and OpenFeign.
+- Relational data persistence across PostgreSQL and MySQL.
 
-**Technologies:** Java, Spring Boot, Spring Data JPA, Hibernate, PostgreSQL, MySQL, Maven.
+**Technologies:** Java, Spring Boot, Spring Data JPA, Hibernate, OpenFeign, PostgreSQL, MySQL.
 
 ## Education
 
-**Higher Vocational Diploma in Multiplatform Application Development (DAM)**
-
+**Higher Vocational Diploma in Multiplatform Application Development (DAM)**  
 IES Barajas — Madrid, Spain  
 September 2021 – June 2023
 
-## Currently Learning
+## Current Development Focus
 
-- Advanced Spring Boot and backend architecture
-- Apache Kafka and RabbitMQ
-- Software testing and application reliability
-- DevOps fundamentals
+- Java and Spring Boot backend development.
+- SQL querying and relational database design.
+- ETL processes and data integration.
+- Linux administration, testing, and application reliability.
 
-## Career Objective
+## Languages
 
-I'm looking for a Junior Java Backend Developer or Junior Software Engineer opportunity in Geneva or the French-speaking part of Switzerland.
-
-I'm motivated to contribute to real-world projects, learn from experienced teams, and continue growing as a software developer.
+- Spanish — Native
+- French — B1
+- English — A2
 
 ## Contact
 
 - **Portfolio:** [alexis-portfolio-lovat.vercel.app](https://alexis-portfolio-lovat.vercel.app/)
-- **LinkedIn:** [Alexis Aquino Miranda](https://www.linkedin.com/in/alexis-aquino-miranda-053b0a252)
+- **LinkedIn:** [Alexis Aquino Miranda](https://www.linkedin.com/in/alexis-aquino-miranda-053b0a252/)
 - **Email:** [alexaquinomiranda@gmail.com](mailto:alexaquinomiranda@gmail.com)
-- **Location:** Geneva, Switzerland
